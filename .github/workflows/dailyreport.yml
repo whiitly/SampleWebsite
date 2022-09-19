@@ -3,7 +3,7 @@ name: daily-report
 on:
   schedule:
     - cron: '*/5 * * * *'
-  workflow-dispatch: 
+  workflow_dispatch: 
 
 jobs:
   my-job:

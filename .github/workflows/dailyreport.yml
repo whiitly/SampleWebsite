@@ -1,0 +1,13 @@
+name: dailyreport
+
+on:
+  schedule:
+    - cron: "/5****""
+  workflow-dispatch: 
+
+jobs:
+  my-job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: first-step
+        run: echo "hello world"

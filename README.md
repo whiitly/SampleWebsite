@@ -4,3 +4,5 @@ Status: Error
 
 Github action 2 - Deploy to Azure web app
 Status: Error
+
+Github action 3 - Github Pages : https://whiitly.github.io/SampleWebsite/

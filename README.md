@@ -6,8 +6,8 @@ This is to view the website on a live webpage instead of need to clone to local 
 Site is live at: https://whiitly.github.io/SampleWebsite/
 
 
-Github action 2 - Daily Report     <br/>
-Send simple report to user daily by email.     <br/>
+Github action 2 - Report by email    <br/>
+Send simple weekly report to user by email.     <br/>
 ![Screenshot (128)](https://user-images.githubusercontent.com/104336964/192408349-d8b5cd3f-e691-44cd-9a8e-74f3c637e7c3.png)
 Error after adding secret key.
 ![report1](https://user-images.githubusercontent.com/104336964/192406347-b5816097-8fd6-4a3d-af37-6b978f40c6ec.png)

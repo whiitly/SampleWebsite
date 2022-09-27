@@ -1,8 +1,8 @@
 Show & Tell for DevOps class - Project 2: CI/CD     <br/>
 
 Github action 1 - Build and deploy to Github page     <br/>
-![report1](https://user-images.githubusercontent.com/104336964/192406320-9004165b-ad18-4b1c-aabc-f194b1a1aa0e.png)     <br/>
 Site is live at: https://whiitly.github.io/SampleWebsite/     <br/>
+![gh page](https://user-images.githubusercontent.com/104336964/192409970-746ae48f-ecac-4cb6-9f17-87e6d46518a5.png)
 
 
 Github action 2 - Report by email    <br/>

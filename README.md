@@ -1,7 +1,6 @@
 Show & Tell for DevOps class - Project 2: CI/CD     <br/>
 
 Github action 1 - Build and deploy to Github page     <br/>
-This is to view the website on a live webpage instead of need to clone to local pc from repository       <br/>
 ![report1](https://user-images.githubusercontent.com/104336964/192406320-9004165b-ad18-4b1c-aabc-f194b1a1aa0e.png)     <br/>
 Site is live at: https://whiitly.github.io/SampleWebsite/     <br/>
 

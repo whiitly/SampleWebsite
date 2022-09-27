@@ -7,7 +7,8 @@ Site is live at: https://whiitly.github.io/SampleWebsite/
 
 
 Github action 2 - Daily Report     <br/>
-Send simple report to user daily by email.
+Send simple report to user daily by email.     <br/>
+![Screenshot (128)](https://user-images.githubusercontent.com/104336964/192408349-d8b5cd3f-e691-44cd-9a8e-74f3c637e7c3.png)
 Error after adding secret key.
 ![report1](https://user-images.githubusercontent.com/104336964/192406347-b5816097-8fd6-4a3d-af37-6b978f40c6ec.png)
 ![report2](https://user-images.githubusercontent.com/104336964/192406353-c742424c-9a7c-43a8-9697-820ce978eb67.png)

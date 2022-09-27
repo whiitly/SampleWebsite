@@ -4,7 +4,6 @@ Github action 1 - Build and deploy to Github page     <br/>
 This is to view the website on a live webpage instead of need to clone to local pc from repository  
 ![report1](https://user-images.githubusercontent.com/104336964/192406320-9004165b-ad18-4b1c-aabc-f194b1a1aa0e.png)
 Site is live at: https://whiitly.github.io/SampleWebsite/
-![Screenshot (127)](https://user-images.githubusercontent.com/104336964/192406552-d7cc9e34-55a0-49b0-8703-162551dde2c2.png)
 
 
 Github action 2 - Daily Report     <br/>
